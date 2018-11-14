@@ -1,5 +1,3 @@
-// Aviad Gottesman 311250484.
-
 #include <string>
 #include <iostream>
 #include "LargeIntegers.h"
