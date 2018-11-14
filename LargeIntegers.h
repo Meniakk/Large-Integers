@@ -1,5 +1,3 @@
-// Aviad Gottesman 311250484.
-
 #ifndef ADV1_INFINT_H
 #define ADV1_INFINT_H
 
